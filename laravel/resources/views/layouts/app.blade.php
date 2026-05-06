@@ -24,7 +24,7 @@
 
 <div class="ticker">
     <span class="ticker-inner">
-        &nbsp;✦ Kristyn Jade S. Tanteras &nbsp;✦ BTVTED — ICT Major in Computer Programming &nbsp;✦ Designer &nbsp;✦ Developer &nbsp;✦ Creative &nbsp;✦ Kristyn Jade S. Tanteras &nbsp;✦ BTVTED — ICT Major in Computer Programming &nbsp;✦ Designer &nbsp;✦ Developer &nbsp;✦ Creative &nbsp;
+        &nbsp;✦ Kristyn Jade S. Tanteras ✦&nbsp;✦ BTVTED — ICT Major in Computer Programming &nbsp;✦ Designer &nbsp;✦ Developer &nbsp;✦ Creative &nbsp;✦ Kristyn Jade S. Tanteras ✦&nbsp;✦ BTVTED — ICT Major in Computer Programming &nbsp;✦ Designer &nbsp;✦ Developer &nbsp;✦ Creative &nbsp;
     </span>
 </div>
 
